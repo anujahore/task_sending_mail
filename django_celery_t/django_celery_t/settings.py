@@ -161,7 +161,7 @@ EMAIL_FILE_PATH = r"g:\anuja_hore\testmail_for_testing"  # change this to a prop
 
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'anuja.hore1234@gmail.com'
-EMAIL_HOST_PASSWORD = 'ualzixfxznizmwqg'
+EMAIL_HOST_USER = 'abc@gmail.com'
+EMAIL_HOST_PASSWORD = ''
 
 
