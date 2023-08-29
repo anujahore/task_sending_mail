@@ -147,7 +147,7 @@ CELERY_RESULT_BACKEND = 'django-db'
 # CELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'
 CELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'
 
-# password --- ualzixfxznizmwqg
+
 
 # ''Setup your mail settings here ***
 # EMAIL_BACKEND = 'django.core.mail.backends.gmail.EmailBackend'
